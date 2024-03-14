@@ -1,0 +1,5 @@
+.CalendarContainer {
+    display: grid;
+    grid-template-columns: repeat(7, 20vmin);    
+
+}
